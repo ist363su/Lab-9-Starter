@@ -8,8 +8,8 @@ Canvas is fun, but it can get really complicated as your application gets more c
 
 ## Rubric
 
-- User should be able to login or create a new account
-- User should be redirected to a their canvas
-- User should be able to save their canvas to firebase by clicking save button
-- If User logs in again they should see there last canvas.
-- clear button should clear the canvas
+- (4pts) User should be able to login or create a new account
+- (4pts) User should be redirected to a their canvas
+- (4pts) User should be able to save their canvas to firebase by clicking save button
+- (4pts) If User logs in again they should see their last canvas.
+- (4pts) Clear button should clear the canvas
