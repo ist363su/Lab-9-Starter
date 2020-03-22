@@ -2,7 +2,7 @@
 
 Build a simple sketchbook application that saves data to firebase. Users should be able to login and create a new canvas, create a piece of artwork on the canvas and save it to firebase. The application will need a list view of all of their canvases.
 
-Canvas is fun, but it can get really complicated as your application gets more complication. We will be using the Konva library to make it a little easier. 
+Canvas is fun, but it can get really complicated as your you try to add features to your application. We will be using the Konva library to make it a little easier. 
 
 [KonvaJS](https://konvajs.org/)
 
